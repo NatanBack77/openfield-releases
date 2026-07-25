@@ -1,0 +1,5 @@
+Component: main
+Origin: Openfield
+Label: Openfield
+Architecture: amd64
+Description: Openfield APT repository

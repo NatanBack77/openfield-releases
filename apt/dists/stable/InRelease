@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Openfield
+Label: Openfield
+Codename: stable
+Date: Sat, 25 Jul 2026 21:32:37 UTC
+Architectures: amd64
+Components: main
+Description: Openfield APT repository
+MD5Sum:
+ f6e2c53b6f3bfe8bdbc60d081fc13ebc 829 main/binary-amd64/Packages
+ e30e80024edb1881aece5384a76b63e0 577 main/binary-amd64/Packages.gz
+ 2391b02517a6a2566a4df34e86368e9c 109 main/binary-amd64/Release
+SHA1:
+ b3428d74ba8a8fec637f4cf79d60f20fd2db2c4b 829 main/binary-amd64/Packages
+ a705c866ca1858f177d4fd4eae9d3745f90c43fb 577 main/binary-amd64/Packages.gz
+ 660decc2afe28c1953c63f66324de2e6633d17e0 109 main/binary-amd64/Release
+SHA256:
+ b4c2da97896e6dc01b1927b43976efd7fe546c513d2ebe559fa9492c8d146404 829 main/binary-amd64/Packages
+ 84cfd8e9dd5a944053e279f8d789e55321e5a08af9a2091ec9d432ce92d85a3d 577 main/binary-amd64/Packages.gz
+ a453a82ce3a41a2cf32d24ed72716c9fb36d41d2d824a6352d236f9bc6430fa3 109 main/binary-amd64/Release
+SHA512:
+ 0cd308682a69162b369d805ad9df6dfa3190690fb017312f40e1ca627b9b1e28706af684f7ae975e40eee88f15b908e2451c8ad8ef82216de3c0ba5026966805 829 main/binary-amd64/Packages
+ d8f099ceca159d68d00b63ac4d49a712f43ebe70a61cf3cbb459b6be873963bb3aa486c7e55081cb8205b264f0e614c3a55d06c5006f6215e2dbe406c2b9f554 577 main/binary-amd64/Packages.gz
+ da6ae4f8963c59438af1a095d956629fa8514c542aa0c26109e2951c27e0cec4d42eeef9047d47e5f9d17cbaf9aef5d7479baa042c21db5b5e2e07013a8c345a 109 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETCCGdA6o4qu1FoTpbCd7SB8IS9cFAmplK3UACgkQbCd7SB8I
+S9dRoRAAxmjdAbsDiu0A4UMkOkR6pdnziXzCAYuaOVDlcYgTtTI6ghdpCArTQF73
+5dhzfYaiadFf1tR4/Wax+Ty0+gJowaqIR0yzktu1UmsNc0N/L7LD9a+REZeDW8/v
+VVlT7mBRxy/hKWJEvV8yP9jVfxnrKZ3gNS3AX0ohD6qE3fLdNdLZgDW3IC72CaYL
+IdcsBAuzECU+px6dJrtwzppsfiZe0uCIY7LMnfz0zt42lBdQDH0z0nlVVgxr9Kce
+7+WosDgHtHohNoPdiZXtgliFJvmyswkohV5Kki5GPxxjq8WOK0vPSRy+g+LDvmyi
+2Y3D8Pg4+mjILD3I+yngFVlseTEKiAH8b4d06uFGwCIz/WTB9uA5u4OO5/BnCWu8
+nxO8bmc322EhYUn2vS31slU6lGvHOGCPWsGqKMF/HoOoX0Q8Jm0KPKdaEeVbziqG
+x7iFHlhvF8lM+l4CIcXOLTlurqqAZNg0ih6lG0DV8bOh2krlr8w9yudlKb6oNwhB
+v4ZuT5n/jcCvApV8f65puHct3nOkTkEg5PE1a1ZNvQmjIhzRttUzo4UMbdPsyavV
+0rAoteiCOk8mvZNynqXc4owJQsfXTKtwwkz6lKCWxX5jWytSjW6V5vPYoVdIqatU
+QtzJttZ0pCyfhLa+toBcgsEUTCy9CWkKwu3SNx0bxz5jwoDZYNg=
+=nM6d
+-----END PGP SIGNATURE-----
